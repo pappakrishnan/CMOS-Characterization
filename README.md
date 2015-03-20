@@ -1,4 +1,4 @@
 ELEN-535--CMOS-Analysis
 =======================
 
-This folder includes the Matlab files used for the analysis CMOS characteristics.
+This repository includes the Matlab files I have created for the characterization of CMOS devices (long and short channel devices).
